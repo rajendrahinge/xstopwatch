@@ -1,0 +1,13 @@
+.display {
+    font-size: 2em;
+    margin-bottom: 20px;
+  }
+  
+  .controls button {
+    font-size: 1em;
+    cursor: pointer;
+  }
+  
+  .controls button:hover {
+    background-color: #ddd;
+  }
